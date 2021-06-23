@@ -1,0 +1,187 @@
+body
+{
+	background-color: #F9F6F0;
+	color: #373838;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+}
+
+.logo
+{
+	width: 100%;
+	font-size: 48px;
+	padding: 0 auto;
+	text-align: center;
+}
+
+#topmenu
+{
+	width: 80%;
+	background-color: #E1DBCE;
+	margin-left: auto;
+	margin-right: auto;
+	height: 70px;
+}
+
+.option
+{
+	min-width: 210px;
+	float: left;
+	padding: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+
+a:link
+{
+	color: black;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+.option:hover
+{
+	font-size: 22px;
+}
+
+#about-us
+{
+	margin-top: 50px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.about
+{
+	width: 40%;
+	background-color: #E1DBCE;
+	float: left;
+	padding: 15px;
+	margin-left: 70px;
+}
+
+#opinions
+{
+	width: 100%;
+	margin-top: 50px;
+	padding: 25px;
+}
+
+.headline
+{
+	text-align: center;
+	padding: 15px;
+	background-color: #E1DBCE;
+}
+
+.client
+{
+	width: 30%;
+	height: 50px;
+	float: left;
+	text-align: center;
+	padding: 15px;
+}
+
+.opinion-text
+{
+	width: 70%;
+	height: 50px;
+}
+
+#motto
+{
+	text-align: center;
+	padding: 15px;
+	font-size: 48px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#info
+{
+	text-align: center;
+}
+
+.pozycja
+{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img
+{
+	width: 500px;
+	height: 400px;
+	border: 5px solid #E1DBCE;
+	float: left;
+}
+
+#button
+{
+	background-color: #3FEEE6;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+	margin-left: 680px;
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+
+.opis-dania
+{
+	text-align: center;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#contact
+{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	float: left;
+	padding: 20px;
+}
+
+#formularz
+{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	padding: 20px;
+}
+#koszyk
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.error
+{
+	color: red;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.zamowienie
+{
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 20px;
+}
